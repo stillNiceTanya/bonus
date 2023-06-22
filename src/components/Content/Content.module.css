@@ -1,0 +1,8 @@
+.content {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 148px;
+  padding: 0 20px;
+  background: linear-gradient(180deg, #d2333e 0%, #f54b55 100%);
+}

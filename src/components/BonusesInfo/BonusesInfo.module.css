@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: max-content;
+  transform: translateY(-53%);
+  padding: 18px 18px 20px;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: 2px 2px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.totalBonuses {
+  color: #000;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+.burningBonuses {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.text {
+  color: #979797;
+  font-size: 16px;
+  line-height: 24px;
+}

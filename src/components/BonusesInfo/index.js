@@ -1,0 +1,1 @@
+export { BonusesInfo } from './BonusesInfo';
